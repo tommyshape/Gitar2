@@ -8,11 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        print("fifth commit")
-        println("local change")
-        println("local change2")
-        println("local change 3")
-        print("Experimental branch")
+        println("8th commit experimental")
 
     }
 }
