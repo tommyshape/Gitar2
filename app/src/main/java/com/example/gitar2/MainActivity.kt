@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         println("commitim 9 - Experimental")
         println("Ex additional master")
 
+
+        println("sonradan gurme")
+
     }
 }
