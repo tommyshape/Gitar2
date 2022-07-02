@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         print("fifth commit")
+        println("local change")
+        println("local change2")
 
     }
 }
